@@ -1,0 +1,19 @@
+{
+    "name": "flag_token",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "flagtoken",
+        "/category/asset_value_tracking/token/symbol": "ftk",
+        "/category/asset_value_tracking/token/decimals": "1048576",
+        "/category/asset_value_tracking/token/supply": "1048576",
+        "/category/collection/entity": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true
+    }
+}
